@@ -1,0 +1,13 @@
+# datasets
+data/
+*.csv
+
+# python
+__pycache__/
+*.pyc
+
+# virtual environment
+venv/
+
+# huggingface cache
+.cache/
