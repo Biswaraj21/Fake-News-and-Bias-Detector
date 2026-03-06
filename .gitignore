@@ -11,3 +11,5 @@ venv/
 
 # huggingface cache
 .cache/
+
+models/
